@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I grew up on Peaks Island 🌴**
 
-![](https://giphy.com/gifs/JZ4Hmv3hgRfSU/html5)
+![](Gumby.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
