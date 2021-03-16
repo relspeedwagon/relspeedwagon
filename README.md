@@ -2,7 +2,7 @@
 <h3 align="center">a full stack software engineer from Portland, Maine.</h3>
 
 - 🔭 I’m currently working on [(Open Maine) Portland Allowable Rent Increase Calculator](github.com/OpenMaine/rent-calculator)
-      A cost calculator to help landlords comply with Portland's new rent stabilization ordinance.
+
 - 🌱 I’m currently learning **javascript, react, nodejs**
 
 - 👯 I’m looking to collaborate on **meaningful open source projects**
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I grew up on Peaks Island 🌴**
 
-<a image href="https://media3.giphy.com/media/JZ4Hmv3hgRfSU/giphy.gif?cid=ecf05e47rfywvood8b8pgxhbfv0bhl42mtrol1mw337wx43k&rid=giphy.gif">
+<iframe src="https://giphy.com/embed/JZ4Hmv3hgRfSU" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sandwich-gumby-pokey-JZ4Hmv3hgRfSU">via GIPHY</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
