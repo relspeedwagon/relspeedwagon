@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I grew up on Peaks Island 🌴**
 
-![Gumby](![Alt Text](https://gph.is/2Luza31)))
+(![Maine](https://media.giphy.com/media/OOigU7D157RNIGo7RA/giphy.gif)))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
