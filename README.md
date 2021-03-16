@@ -1,7 +1,7 @@
 <h1 align="center">I'm Arielle</h1>
 <h3 align="center">a full stack software engineer from Portland, Maine.</h3>
 
-- 🔭 I’m currently working on [(Open Maine) Portland Allowable Rent Increase Calculator](www.github.com/OpenMaine/rent-calculator)
+- 🔭 I’m currently working on [(Open Maine) Portland Allowable Rent Increase Calculator](http://www.github.com/OpenMaine/rent-calculator)
 
 - 🌱 I’m currently learning **javascript, react, nodejs**
 
