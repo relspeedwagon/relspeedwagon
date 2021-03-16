@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I grew up on Peaks Island 🌴**
 
-<iframe src="https://giphy.com/embed/JZ4Hmv3hgRfSU" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sandwich-gumby-pokey-JZ4Hmv3hgRfSU">via GIPHY</a></p>
+![](https://giphy.com/gifs/JZ4Hmv3hgRfSU/html5)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
