@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on **meaningful open source projects**
 
+- 💬 Find my portfolio at **www.ariellemorabito.com**
+
 - 📫 How to reach me **arielle.morabito@gmail.com**
 
 - ⚡ Fun fact **I grew up on Peaks Island 🌴**
