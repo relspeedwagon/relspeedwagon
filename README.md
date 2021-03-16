@@ -13,7 +13,9 @@
 
 - ⚡ Fun fact **I grew up on Peaks Island 🌴**
 
+☆⌒★⌒☆⌒★⌒☆⌒★⌒☆
 ![Maine](https://media.giphy.com/media/OOigU7D157RNIGo7RA/giphy.gif)
+☆⌒★⌒☆⌒★⌒☆⌒★⌒☆
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
