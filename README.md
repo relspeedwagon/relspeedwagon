@@ -1,5 +1,5 @@
 <h1 align="center">I'm Arielle</h1>
-<h3 align="center">ミ☆ a full stack software engineer from Portland, Maine. ☆彡</h3>
+<h3 align="center">a full stack software engineer from Portland, Maine. ☆彡</h3>
 
 - 🔭 I’m currently working on [(Open Maine) Portland Allowable Rent Increase Calculator](http://www.github.com/OpenMaine/rent-calculator)
 
