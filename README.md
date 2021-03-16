@@ -2,7 +2,7 @@
 <h3 align="center">a full stack software engineer from Portland, Maine.</h3>
 
 - 🔭 I’m currently working on [(Open Maine) Portland Allowable Rent Increase Calculator](github.com/OpenMaine/rent-calculator)
-
+      A cost calculator to help landlords comply with Portland's new rent stabilization ordinance.
 - 🌱 I’m currently learning **javascript, react, nodejs**
 
 - 👯 I’m looking to collaborate on **meaningful open source projects**
@@ -12,6 +12,8 @@
 - 📫 How to reach me **arielle.morabito@gmail.com**
 
 - ⚡ Fun fact **I grew up on Peaks Island 🌴**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
