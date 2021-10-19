@@ -1,7 +1,9 @@
 <h1 align="center">I'm Arielle</h1>
 <h3 align="center">a full stack software engineer from Portland, Maine. ☆彡</h3>
 
-- 🔭 I’m currently working on [(Open Maine) Portland Allowable Rent Increase Calculator](http://www.github.com/OpenMaine/rent-calculator)
+- 🔭 I’m currently working on:
+      * [LeafyPlot.io](http://www.leafyplot.io) [relspeedwagon/leafyPlot](https://github.com/relspeedwagon/leafyPlot)
+      * [(Open Maine) Portland Allowable Rent Increase Calculator](http://www.github.com/OpenMaine/rent-calculator)
 
 - 🌱 I’m currently learning **javascript, react, nodejs**
 
